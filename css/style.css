@@ -1,5 +1,12 @@
 *{
     font-family: sans-serif;
+    margin: 10; padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #dcdcdc;
+    margin: 0 10px;
 }
 
 h1{
